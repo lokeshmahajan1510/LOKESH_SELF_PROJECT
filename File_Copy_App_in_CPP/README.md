@@ -1,7 +1,7 @@
 # This is application for copying file from one location to another location in same machine with the help of WINSOCK API'S
 
-On Server side ip address as 0.0.0.0
-On Client side ip address as <your PC ip>
+- On Server side ip address as 0.0.0.0
+- On Client side ip address as <your PC ip>
 
 #for RUNNING THIS APPLICATION
 - For server : 
